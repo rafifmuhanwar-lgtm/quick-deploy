@@ -1,0 +1,11 @@
+{
+  "name": "quickdeploy",
+  "version": "1.0.0",
+  "description": "Deploy static websites to Netlify in one click",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
